@@ -1,0 +1,15 @@
+body{
+  background: rgb(78, 47, 255);
+  justify-content: center;
+    background-image: url("https://www.mancity.com/meta/media/bfcbwm45/pep-thumb-04.jpg");
+
+}
+   
+
+    .home-page {
+      background-image: url("https://www.mancity.com/meta/media/bfcbwm45/pep-thumb-04.jpg");
+      background-size: cover;
+      background-position: center;
+      background: no-repeat;
+    }
+    
